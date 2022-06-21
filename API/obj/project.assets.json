@@ -5,7 +5,7 @@
       "Humanizer.Core/2.8.26": {
         "type": "package",
         "compile": {
-          "lib/netstandard2.0/Humanizer.dll": {}
+          "lib/netstandard2.0/_._": {}
         },
         "runtime": {
           "lib/netstandard2.0/Humanizer.dll": {}
@@ -69,7 +69,7 @@
           "Microsoft.EntityFrameworkCore.Relational": "6.0.6"
         },
         "compile": {
-          "lib/net6.0/Microsoft.EntityFrameworkCore.Design.dll": {}
+          "lib/net6.0/_._": {}
         },
         "runtime": {
           "lib/net6.0/Microsoft.EntityFrameworkCore.Design.dll": {}
@@ -1335,11 +1335,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "d:\\Web Projects\\Shopify\\API\\API.csproj",
+      "projectUniqueName": "D:\\Web Projects\\Shopify\\API\\API.csproj",
       "projectName": "API",
-      "projectPath": "d:\\Web Projects\\Shopify\\API\\API.csproj",
+      "projectPath": "D:\\Web Projects\\Shopify\\API\\API.csproj",
       "packagesPath": "C:\\Users\\ASUS\\.nuget\\packages\\",
-      "outputPath": "d:\\Web Projects\\Shopify\\API\\obj\\",
+      "outputPath": "D:\\Web Projects\\Shopify\\API\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ASUS\\AppData\\Roaming\\NuGet\\NuGet.Config"
