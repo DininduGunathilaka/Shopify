@@ -9,7 +9,6 @@ namespace API.Entities
         public string? PictureUrl { get; set; }
         public string Type { get; set; }= default!; 
         public string Brand { get; set; }= string.Empty;
-
         public int QuantityInStock { get; set; }
 
     }

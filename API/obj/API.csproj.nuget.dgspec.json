@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Web Projects\\Shopify\\API\\API.csproj": {}
+    "d:\\Web Projects\\Shopify\\API\\API.csproj": {}
   },
   "projects": {
-    "D:\\Web Projects\\Shopify\\API\\API.csproj": {
+    "d:\\Web Projects\\Shopify\\API\\API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Web Projects\\Shopify\\API\\API.csproj",
+        "projectUniqueName": "d:\\Web Projects\\Shopify\\API\\API.csproj",
         "projectName": "API",
-        "projectPath": "D:\\Web Projects\\Shopify\\API\\API.csproj",
+        "projectPath": "d:\\Web Projects\\Shopify\\API\\API.csproj",
         "packagesPath": "C:\\Users\\ASUS\\.nuget\\packages\\",
-        "outputPath": "D:\\Web Projects\\Shopify\\API\\obj\\",
+        "outputPath": "d:\\Web Projects\\Shopify\\API\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ASUS\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -38,6 +38,14 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "dependencies": {
+            "Microsoft.EntityFrameworkCore.Design": {
+              "target": "Package",
+              "version": "[6.0.6, )"
+            },
+            "Microsoft.EntityFrameworkCore.Sqlite": {
+              "target": "Package",
+              "version": "[6.0.6, )"
+            },
             "Swashbuckle.AspNetCore": {
               "target": "Package",
               "version": "[6.2.3, )"
@@ -61,7 +69,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.105\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.106\\RuntimeIdentifierGraph.json"
         }
       }
     }
