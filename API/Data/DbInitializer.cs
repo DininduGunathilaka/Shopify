@@ -208,6 +208,13 @@ namespace API.Data
                     QuantityInStock = 100
                 }
             };
+
+            foreach (var product in products)
+            {
+                context.Products.Add(product);
+            }
+
+            context.SaveChanges();
         }
     }
 }
